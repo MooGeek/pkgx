@@ -1,4 +1,4 @@
-{{ package_name }} ({{ version }}-1) unstable; urgency=low
+{{ package_name }} ({{ version }}-1) {{ release_type }}; urgency=low
 
   * Create release {{ version }}
 
